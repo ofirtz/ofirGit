@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Sea Breeze Hotel", "city": "Tel Aviv", "region": "Center", "price_per_night_for_two": 520.0},
+  {"id": 2, "name": "Jerusalem Garden", "city": "Jerusalem", "region": "Jerusalem District", "price_per_night_for_two": 480.0},
+  {"id": 3, "name": "Haifa Bay Inn", "city": "Haifa", "region": "North", "price_per_night_for_two": 390.0},
+  {"id": 4, "name": "Eilat Coral Resort", "city": "Eilat", "region": "South", "price_per_night_for_two": 610.0},
+  {"id": 5, "name": "Nazareth Boutique", "city": "Nazareth", "region": "North", "price_per_night_for_two": 350.0},
+  {"id": 6, "name": "Dead Sea Oasis", "city": "Ein Bokek", "region": "South", "price_per_night_for_two": 420.0},
+  {"id": 7, "name": "Tiberias Lakeside", "city": "Tiberias", "region": "North", "price_per_night_for_two": 330.0},
+  {"id": 8, "name": "Herzliya Marina Hotel", "city": "Herzliya", "region": "Center", "price_per_night_for_two": 440.0},
+  {"id": 9, "name": "Ashdod Coast", "city": "Ashdod", "region": "South", "price_per_night_for_two": 310.0},
+  {"id": 10, "name": "Ramat Gan Business Hotel", "city": "Ramat Gan", "region": "Center", "price_per_night_for_two": 370.0}
+]
